@@ -1,0 +1,501 @@
+﻿event_id,title,end_date_utc,slug
+318829,Club Blooming vs. CA Nacional PotosÃ­,2026-04-23T00:00:00Z,bol1-blo-nap-2026-04-22
+339602,CR Flamengo vs. EC VitÃ³ria,2026-04-23T00:30:00Z,brco-fla-vit-2026-04-22
+365135,CuiabÃ¡ EC vs. Botafogo FC,2026-04-23T00:30:00Z,bra2-cui-bot-2026-04-22
+310586,FC Dallas vs. Minnesota United FC,2026-04-23T00:30:00Z,mls-dal-min-2026-04-22
+310588,Houston Dynamo vs. San Diego FC,2026-04-23T00:30:00Z,mls-hou-sdg-2026-04-22
+339601,Red Bull Bragantino vs. Mirassol FC,2026-04-23T00:30:00Z,brco-bra-mir-2026-04-22
+310742,AtlÃ©tico San Luis vs. Club Santos Laguna,2026-04-23T01:00:00Z,mex-asl-san-2026-04-22
+310740,Atlas FC vs. Tigres de la UANL,2026-04-23T01:00:00Z,mex-atl-tig-2026-04-22
+310741,MazatlÃ¡n FC vs. Deportivo Toluca FC,2026-04-23T01:00:00Z,mex-maz-tol-2026-04-22
+315008,Club Universitario de Deportes vs. CD Garcilaso,2026-04-23T01:30:00Z,per1-cud-cdg-2026-04-22
+310590,Real Salt Lake vs. Inter Miami CF,2026-04-23T01:30:00Z,mls-rsl-mia-2026-04-22
+311609,AD Municipal PÃ©rez ZeledÃ³n vs. CS Herediano,2026-04-23T02:00:00Z,fpd-per-her-2026-04-22
+311605,CS CartaginÃ©s vs. AD San Carlos,2026-04-23T02:00:00Z,fpd-car-sca-2026-04-22
+311608,Deportivo Saprissa vs. Guadalupe FC,2026-04-23T02:00:00Z,fpd-sap-gua-2026-04-22
+311606,LD Alajuelense vs. Puntarenas FC,2026-04-23T02:00:00Z,fpd-ala-pun-2026-04-22
+311607,Sporting FC vs. AD Municipal Liberia,2026-04-23T02:00:00Z,fpd-spo-lib-2026-04-22
+310595,Los Angeles FC vs. Colorado Rapids SC,2026-04-23T02:30:00Z,mls-laf-col-2026-04-22
+310593,San Jose Earthquakes vs. Austin FC,2026-04-23T02:30:00Z,mls-sje-aus-2026-04-22
+310743,Club Necaxa vs. CD Guadalajara,2026-04-23T03:00:00Z,mex-nec-gua-2026-04-22
+310744,Club Tijuana vs. CF Pachuca,2026-04-23T03:00:00Z,mex-tij-pac-2026-04-22
+381358,FK Zorya Luhansk vs. FK Shakhtar Donetsk,2026-04-23T12:30:00Z,ukr1-zor-shd-2026-04-23
+315020,El Mokawloon El Arab SC vs. El Ittihad SC El Iskandary,2026-04-23T14:00:00Z,egy1-eme-eis-2026-04-23
+311244,Kerala Blasters FC vs. Odisha FC,2026-04-23T14:00:00Z,isp-ker-ddy-2026-04-23
+314695,FK Akron Tolyatti vs. FK Dinamo Makhachkala,2026-04-23T14:30:00Z,rus-akr-mak-2026-04-23
+311200,FC NordsjÃ¦lland vs. Aarhus GF,2026-04-23T16:00:00Z,den-nor-agf-2026-04-23
+311201,Randers FC vs. FC Fredericia,2026-04-23T16:00:00Z,den-ran-fcf-2026-04-23
+311136,Al Najmah Saudi Club vs. Al Taawoun Saudi Club,2026-04-23T16:10:00Z,spl-njm-taa-2026-04-23
+314697,FK Spartak Moskva vs. FK Krasnodar,2026-04-23T16:45:00Z,rus-spa-kra-2026-04-23
+314018,Go Ahead Eagles vs. AZ,2026-04-23T16:45:00Z,ere-goa-az-2026-04-23
+314696,RFK Akhmat Groznyi vs. FK Baltika Kaliningrad,2026-04-23T16:45:00Z,rus-ter-bal-2026-04-23
+315022,Ghazl El Mahalla SC vs. Petrojet SC,2026-04-23T17:00:00Z,egy1-gem-pes-2026-04-23
+363203,Levante UD vs. Sevilla FC,2026-04-23T17:00:00Z,lal-lev-sev-2026-04-23
+315021,Zamalek SC vs. Pyramids FC,2026-04-23T17:00:00Z,egy1-zas-pyf-2026-04-23
+311138,Damac Saudi Club vs. Al Okhdood SC,2026-04-23T18:00:00Z,spl-dam-okh-2026-04-23
+363205,Rayo Vallecano de Madrid vs. RCD Espanyol de Barcelona,2026-04-23T18:00:00Z,lal-ray-esp-2026-04-23
+311202,SÃ¸nderjyske Fodbold vs. FC Midtjylland,2026-04-23T18:00:00Z,den-sjs-mid-2026-04-23
+314495,VfB Stuttgart vs. SC Freiburg,2026-04-23T18:45:00Z,dfb-stu-scf-2026-04-23
+318830,CD San Antonio Bulo Bulo vs. CDT Real Oruro,2026-04-23T19:00:00Z,bol1-ant-oru-2026-04-23
+314019,PSV vs. PEC Zwolle,2026-04-23T19:00:00Z,ere-psv-zwo-2026-04-23
+363717,Salford City FC vs. Bromley FC,2026-04-23T19:00:00Z,el2-sal-bro-2026-04-23
+379180,Casa Pia AC vs. SC Braga,2026-04-23T19:15:00Z,por-cas-scb-2026-04-23
+363207,Real Oviedo vs. Villarreal CF,2026-04-23T19:30:00Z,lal-ovi-vil-2026-04-23
+328685,SC UniÃ£o Torreense vs. AD Fafe,2026-04-23T19:45:00Z,ptc-tor-faf-2026-04-23
+315010,CD Los Chankas vs. CS Cienciano,2026-04-23T20:00:00Z,per1-clc-cs1-2026-04-23
+339603,CA Mineiro vs. CearÃ¡ SC,2026-04-23T22:00:00Z,brco-cam-csc-2026-04-23
+339604,SE Palmeiras vs. EC Jacuipense,2026-04-23T22:30:00Z,brco-pal-jac-2026-04-23
+314904,AD Pasto vs. Independiente Santa Fe,2026-04-23T23:00:00Z,col1-adp-isf-2026-04-23
+314605,CSyD Defensa y Justicia vs. CA Boca Juniors,2026-04-23T23:00:00Z,arg-def-boc-2026-04-23
+365134,CD Palestino vs. CD ConcepciÃ³n,2026-04-24T00:00:00Z,chi1-cdp-cd1-2026-04-23
+318831,CD Real Tomayapo vs. Club The Strongest,2026-04-24T00:00:00Z,bol1-tom-str-2026-04-23
+339605,CA Paranaense vs. AC Goianiense,2026-04-24T00:30:00Z,brco-cap-acg-2026-04-23
+339606,OperÃ¡rio FerroviÃ¡rio EC vs. Fluminense FC,2026-04-24T00:30:00Z,brco-ofe-flu-2026-04-23
+315237,Macarthur FC vs. Wellington Phoenix FC,2026-04-24T09:35:00Z,aus-mac-wel-2026-04-24
+315089,FC TÅkyÅ vs. FC Mito Holly Hock,2026-04-24T10:00:00Z,j1100-fct-hol-2026-04-24
+315087,Kashiwa Reysol vs. Kashima Antlers,2026-04-24T10:00:00Z,j1100-rey-kas-2026-04-24
+315206,North East United FC vs. FC Goa,2026-04-24T11:30:00Z,isp-neu-goa-2026-04-24
+315207,East Bengal FC vs. Punjab FC,2026-04-24T14:00:00Z,isp-ebe-pun-2026-04-24
+315023,National Bank of Egypt Club vs. ZED FC,2026-04-24T14:00:00Z,egy1-nbo-zef-2026-04-24
+315024,Pharco FC vs. El Gouna SC,2026-04-24T14:00:00Z,egy1-phf-egs-2026-04-24
+389534,FC Hermannstadt vs. FK CsÃ­kszereda Miercurea Ciuc,2026-04-24T14:30:00Z,rou1-fch-fcm-2026-04-24
+315086,Al Fateh Saudi Club vs. Al Khaleej Saudi Club,2026-04-24T15:45:00Z,spl-fat-kha-2026-04-24
+315088,Al Hazem SC vs. Al Riyadh Saudi Club,2026-04-24T16:10:00Z,spl-haz-riy-2026-04-24
+366429,1. FC Kaiserslautern vs. Eintracht Braunschweig,2026-04-24T16:30:00Z,bl2-fck-bra-2026-04-24
+366435,TSV Fortuna 95 DÃ¼sseldorf vs. SG Dynamo Dresden,2026-04-24T16:30:00Z,bl2-dus-dyn-2026-04-24
+366989,AC Monza vs. Modena FC 2018,2026-04-24T17:00:00Z,itsb-mon-mod-2026-04-24
+315025,Ismaily SC vs. Modern SC,2026-04-24T17:00:00Z,egy1-iss-mos-2026-04-24
+318425,Rams BaÅakÅehir FK vs. KasÄ±mpaÅa SK,2026-04-24T17:00:00Z,tur-iba-kas-2026-04-24
+315026,Tala'ea El Gaish SC vs. Kahrabaa Ismailia FC,2026-04-24T17:00:00Z,egy1-teg-kif-2026-04-24
+389538,FCSB vs. FC Petrolul PloieÅti,2026-04-24T17:30:00Z,rou1-fcs-fpp-2026-04-24
+366838,Amiens SC vs. Montpellier HSC,2026-04-24T18:00:00Z,fr2-ami-mon-2026-04-24
+366839,Clermont Foot 63 vs. SC Bastia,2026-04-24T18:00:00Z,fr2-clf-bas-2026-04-24
+366834,FC Annecy vs. Pau FC,2026-04-24T18:00:00Z,fr2-fca-pau-2026-04-24
+366837,Red Star FC vs. En Avant Guingamp,2026-04-24T18:00:00Z,fr2-rst-gui-2026-04-24
+366833,Stade Lavallois Mayenne FC vs. Rodez Aveyron Football,2026-04-24T18:00:00Z,fr2-lav-raf-2026-04-24
+366702,Albacete BalompiÃ© vs. SD Eibar,2026-04-24T18:30:00Z,es2-alb-eib-2026-04-24
+366433,RB Leipzig vs. 1. FC Union Berlin,2026-04-24T18:30:00Z,bun-lei-uni-2026-04-24
+365770,SSC Napoli vs. US Cremonese,2026-04-24T18:45:00Z,sea-nap-cre-2026-04-24
+366430,Stade Brestois 29 vs. Racing Club de Lens,2026-04-24T18:45:00Z,fl1-sbr-rcl-2026-04-24
+366700,Real Betis BalompiÃ© vs. Real Madrid CF,2026-04-24T19:00:00Z,lal-bet-rea-2026-04-24
+366431,Sunderland AFC vs. Nottingham Forest FC,2026-04-24T19:00:00Z,epl-sun-not-2026-04-24
+366991,US Avellino 1912 vs. SSC Bari,2026-04-24T19:00:00Z,itsb-ave-bar-2026-04-24
+318580,CD Riestra vs. CA Independiente,2026-04-24T20:00:00Z,arg-rie-ind-2026-04-24
+329090,Racing Louisville FC vs. Orlando Pride,2026-04-24T21:30:00Z,nwsl-rac-pri-2026-04-24
+365137,CD UniÃ³n La Calera vs. CD Coquimbo Unido,2026-04-24T22:00:00Z,chi1-cul-ccu-2026-04-24
+318581,AA Estudiantes vs. CA Rosario Central,2026-04-24T22:15:00Z,arg-aae-ros-2026-04-24
+318582,CA LanÃºs vs. CA Central CÃ³rdoba,2026-04-24T22:15:00Z,arg-lan-cac-2026-04-24
+365140,AA Ponte Preta vs. AmÃ©rica FC,2026-04-24T23:00:00Z,bra2-pop-afc-2026-04-24
+318780,CÃºcuta Deportivo FC vs. CDP Junior FC,2026-04-24T23:20:00Z,col1-cdf-cjf-2026-04-24
+318832,Club Independiente Petrolero vs. FC Universitario,2026-04-25T00:00:00Z,bol1-idp-uvi-2026-04-24
+329091,Washington Spirit vs. Kansas City Current,2026-04-25T00:00:00Z,nwsl-spi-kcc-2026-04-24
+365141,Audax CS Italiano vs. CD Limache,2026-04-25T00:30:00Z,chi1-aci-cdl-2026-04-24
+318583,Racing Club vs. CA Barracas Central,2026-04-25T00:30:00Z,arg-rac-bar-2026-04-24
+318486,Club Puebla vs. QuerÃ©taro FC,2026-04-25T03:00:00Z,mex-pue-que-2026-04-24
+319205,JÃºbilo Iwata vs. FC Gifu,2026-04-25T04:00:00Z,j2100-jub-gif-2026-04-25
+318890,Fagiano Okayama vs. Avispa Fukuoka,2026-04-25T05:00:00Z,j1100-fag-avi-2026-04-25
+319215,FC Imabari vs. Kataller Toyama,2026-04-25T05:00:00Z,j2100-imb-kat-2026-04-25
+319214,Fujieda MYFC vs. RB Åmiya Ardija,2026-04-25T05:00:00Z,j2100-fuj-omi-2026-04-25
+319208,Fukushima United FC vs. Ventforet KÅfu,2026-04-25T05:00:00Z,j2100-fuk-ven-2026-04-25
+319210,Gainare Tottori vs. Roasso Kumamoto,2026-04-25T05:00:00Z,j2100-gai-roa-2026-04-25
+319104,Gangwon FC vs. FC Seoul,2026-04-25T05:00:00Z,kor-gwo-seo-2026-04-25
+319213,Giravanz KitakyÅ«shÅ« vs. Renofa Yamaguchi FC,2026-04-25T05:00:00Z,j2100-gir-ren-2026-04-25
+319216,HokkaidÅ Consadole Sapporo vs. Iwaki FC,2026-04-25T05:00:00Z,j2100-con-iwa-2026-04-25
+319217,Sagan Tosu vs. Reilac Shiga,2026-04-25T05:00:00Z,j2100-st-rei-2026-04-25
+318892,Shimizu S-Pulse vs. Nagoya Grampus,2026-04-25T05:00:00Z,j1100-ssp-ngr-2026-04-25
+319218,Tegevajaro Miyazaki vs. Kagoshima United FC,2026-04-25T05:00:00Z,j2100-teg-kag-2026-04-25
+319211,Thespa Gunma vs. Yokohama FC,2026-04-25T05:00:00Z,j2100-the-yok-2026-04-25
+319209,Tochigi City FC vs. Tochigi SC,2026-04-25T05:00:00Z,j2100-tct-tsc-2026-04-25
+318891,Urawa Red Diamonds vs. Yokohama FÂ·Marinos,2026-04-25T05:00:00Z,j1100-ura-yom-2026-04-25
+319212,Vegalta Sendai vs. Montedio Yamagata,2026-04-25T05:00:00Z,j2100-veg-mon-2026-04-25
+318893,Kawasaki Frontale vs. JEF United Ichihara Chiba,2026-04-25T06:00:00Z,j1100-kaw-jef-2026-04-25
+319034,Newcastle United Jets FC vs. Central Coast Mariners FC,2026-04-25T07:00:00Z,aus-new-ccm-2026-04-25
+318894,Sanfrecce Hiroshima vs. Cerezo Åsaka,2026-04-25T07:00:00Z,j1100-san-cer-2026-04-25
+319108,Bucheon FC 1995 vs. Gimcheon Sangmu FC,2026-04-25T07:30:00Z,kor-bch-san-2026-04-25
+319105,Incheon United FC vs. Jeju SK FC,2026-04-25T07:30:00Z,kor-inc-jej-2026-04-25
+319219,SC Sagamihara vs. ShÅnan BellmÄre,2026-04-25T08:00:00Z,j2100-sag-sho-2026-04-25
+318895,V-Varen Nagasaki vs. Gamba Åsaka,2026-04-25T09:30:00Z,j1100-vva-gam-2026-04-25
+319035,Western Sydney Wanderers FC vs. Melbourne Victory FC,2026-04-25T09:35:00Z,aus-wsw-vic-2026-04-25
+319220,FC RyÅ«kyÅ« vs. Åita Trinita,2026-04-25T10:00:00Z,j2100-ryu-oit-2026-04-25
+370517,US Catanzaro 1929 vs. Spezia Calcio,2026-04-25T10:30:00Z,itsb-cat-spe-2026-04-25
+319071,Chengdu Rongcheng FC vs. Zhejiang Zhiye FC,2026-04-25T11:00:00Z,chi-ron-zhe-2026-04-25
+369834,Hertha BSC vs. Holstein Kiel,2026-04-25T11:00:00Z,bl2-ber-ksv-2026-04-25
+369840,Karlsruher SC vs. Hannover 96,2026-04-25T11:00:00Z,bl2-ksc-h96-2026-04-25
+369844,SC PreuÃen MÃ¼nster vs. DSC Arminia Bielefeld,2026-04-25T11:00:00Z,bl2-mun-bie-2026-04-25
+371013,Aldershot Town FC vs. Truro City FC,2026-04-25T11:30:00Z,enl-ald-tru-2026-04-25
+371014,Altrincham FC vs. Gateshead FC,2026-04-25T11:30:00Z,enl-alt-gat-2026-04-25
+319004,Bengaluru FC vs. Mumbai City FC,2026-04-25T11:30:00Z,isp-ben-muc-2026-04-25
+371009,Boreham Wood FC vs. Sutton United FC,2026-04-25T11:30:00Z,enl-bor-sut-2026-04-25
+371015,Boston United FC vs. Hartlepool United FC,2026-04-25T11:30:00Z,enl-bos-har-2026-04-25
+371019,Carlisle United FC vs. Brackley Town FC,2026-04-25T11:30:00Z,enl-car-bra-2026-04-25
+370567,Doncaster Rovers FC vs. Stevenage FC,2026-04-25T11:30:00Z,el1-don-ste-2026-04-25
+318426,EyÃ¼pspor vs. Gaziantep FK,2026-04-25T11:30:00Z,tur-eyu-gfk-2026-04-25
+318615,FK Rostov vs. FK Orenburg,2026-04-25T11:30:00Z,rus-ros-ore-2026-04-25
+371016,Forest Green Rovers FC vs. Morecambe FC,2026-04-25T11:30:00Z,enl-fgr-mca-2026-04-25
+369836,Fulham FC vs. Aston Villa FC,2026-04-25T11:30:00Z,epl-ful-ast-2026-04-25
+370715,Grimsby Town FC vs. Swindon Town FC,2026-04-25T11:30:00Z,el2-gri-swi-2026-04-25
+370714,Milton Keynes Dons FC vs. Tranmere Rovers FC,2026-04-25T11:30:00Z,el2-mkd-tra-2026-04-25
+371011,Rochdale AFC vs. York City FC,2026-04-25T11:30:00Z,enl-roc-yor-2026-04-25
+371017,Scunthorpe United FC vs. Eastleigh FC,2026-04-25T11:30:00Z,enl-scu-eas-2026-04-25
+371012,Southend United FC vs. Wealdstone FC,2026-04-25T11:30:00Z,enl-sou-wea-2026-04-25
+370566,Stockport County FC vs. Peterborough United FC,2026-04-25T11:30:00Z,el1-sto-pet-2026-04-25
+371020,Tamworth FC vs. Braintree Town FC,2026-04-25T11:30:00Z,enl-tam-bt-2026-04-25
+371018,Woking FC vs. FC Halifax Town,2026-04-25T11:30:00Z,enl-wok-hal-2026-04-25
+371010,Yeovil Town FC vs. Solihull Moors FC,2026-04-25T11:30:00Z,enl-yeo-sol-2026-04-25
+319072,Beijing Guoan FC vs. Tianjin Jinmen Hu FC,2026-04-25T11:35:00Z,chi-bgu-jin-2026-04-25
+319037,Perth Glory FC vs. Brisbane Roar FC,2026-04-25T11:45:00Z,aus-per-bri-2026-04-25
+370183,Deportivo AlavÃ©s vs. RCD Mallorca,2026-04-25T12:00:00Z,lal-ala-mal-2026-04-25
+389542,FC BotoÅani vs. ASC OÈelul GalaÈi,2026-04-25T12:00:00Z,rou1-fcb-aog-2026-04-25
+370329,Grenoble Foot 38 vs. Le Mans FC,2026-04-25T12:00:00Z,fr2-gre-lmf-2026-04-25
+319073,Shanghai Haigang FC vs. Wuhan San Zhen FC,2026-04-25T12:00:00Z,chi-shp-wsz-2026-04-25
+370328,Stade de Reims vs. AS Nancy-Lorraine,2026-04-25T12:00:00Z,fr2-rei-asn-2026-04-25
+381360,FK Kolos Kovalivka vs. SK Poltava,2026-04-25T12:30:00Z,ukr1-kol-sp-2026-04-25
+370522,AC Reggiana 1919 vs. Palermo FC,2026-04-25T13:00:00Z,itsb-reg-pal-2026-04-25
+370519,Delfino Pescara 1936 vs. SS Juve Stabia,2026-04-25T13:00:00Z,itsb-pes-sta-2026-04-25
+370523,FC SÃ¼dtirol vs. Mantova 1911,2026-04-25T13:00:00Z,itsb-sud-man-2026-04-25
+370521,Frosinone Calcio vs. Carrarese Calcio,2026-04-25T13:00:00Z,itsb-fro-car-2026-04-25
+369835,Olympique Lyonnais vs. AJ Auxerre,2026-04-25T13:00:00Z,fl1-lyo-aja-2026-04-25
+369185,Parma Calcio 1913 vs. Pisa SC,2026-04-25T13:00:00Z,sea-par-pis-2026-04-25
+370518,Virtus Entella vs. Calcio Padova,2026-04-25T13:00:00Z,itsb-ent-pad-2026-04-25
+369850,1. FC Heidenheim 1846 vs. FC St. Pauli 1910,2026-04-25T13:30:00Z,bun-hei-pau-2026-04-25
+369833,1. FC KÃ¶ln vs. Bayer 04 Leverkusen,2026-04-25T13:30:00Z,bun-koe-b04-2026-04-25
+369847,1. FSV Mainz 05 vs. FC Bayern MÃ¼nchen,2026-04-25T13:30:00Z,bun-mai-bay-2026-04-25
+369842,FC Augsburg vs. Eintracht Frankfurt,2026-04-25T13:30:00Z,bun-aug-ein-2026-04-25
+369838,VfL Wolfsburg vs. Borussia MÃ¶nchengladbach,2026-04-25T13:30:00Z,bun-wol-moe-2026-04-25
+318782,1. FC SlovÃ¡cko vs. FK Dukla Praha,2026-04-25T14:00:00Z,cze1-fcs-fdp-2026-04-25
+370677,Aberdeen FC vs. Kilmarnock FC,2026-04-25T14:00:00Z,scop-abe-kil-2026-04-25
+370721,Accrington Stanley FC vs. Crawley Town FC,2026-04-25T14:00:00Z,el2-ast-cra-2026-04-25
+370722,Barnet FC vs. Gillingham FC,2026-04-25T14:00:00Z,el2-bar-gil-2026-04-25
+320157,Birmingham City FC vs. Bristol City FC,2026-04-25T14:00:00Z,elc-bir-bri-2026-04-25
+370576,Blackpool FC vs. Leyton Orient FC,2026-04-25T14:00:00Z,el1-bla-ley-2026-04-25
+318801,Bohemians Praha 1905 vs. AC Sparta Praha,2026-04-25T14:00:00Z,cze1-bop-asp-2026-04-25
+370574,Bradford City AFC vs. Bolton Wanderers FC,2026-04-25T14:00:00Z,el1-bra-bol-2026-04-25
+370719,Bristol Rovers FC vs. Cheltenham Town FC,2026-04-25T14:00:00Z,el2-bri-che-2026-04-25
+370577,Burton Albion FC vs. Exeter City FC,2026-04-25T14:00:00Z,el1-bur-exe-2026-04-25
+370720,Cambridge United FC vs. Barrow AFC,2026-04-25T14:00:00Z,el2-cam-barr-2026-04-25
+370572,Cardiff City FC vs. Northampton Town FC,2026-04-25T14:00:00Z,el1-car-nth-2026-04-25
+320121,Charlton Athletic FC vs. Hull City AFC,2026-04-25T14:00:00Z,elc-cha-hul-2026-04-25
+351066,Chelsea FC vs. Leeds United FC,2026-04-25T14:00:00Z,efa-cfc-lee-2026-04-25
+370724,Chesterfield FC vs. Crewe Alexandra FC,2026-04-25T14:00:00Z,el2-ches-cre-2026-04-25
+370718,Colchester United FC vs. Notts County FC,2026-04-25T14:00:00Z,el2-col-not-2026-04-25
+320169,Coventry City FC vs. Wrexham AFC,2026-04-25T14:00:00Z,elc-cov-wre-2026-04-25
+318796,FC BanÃ­k Ostrava vs. FC Viktoria PlzeÅ,2026-04-25T14:00:00Z,cze1-fbo-fvp-2026-04-25
+318800,FK Jablonec vs. FC Slovan Liberec,2026-04-25T14:00:00Z,cze1-fkj-fsl-2026-04-25
+318791,FK Pardubice vs. FC ZlÃ­n,2026-04-25T14:00:00Z,cze1-fkp-fcz-2026-04-25
+318778,FK Teplice vs. FC Hradec KrÃ¡lovÃ©,2026-04-25T14:00:00Z,cze1-fkt-fhk-2026-04-25
+318926,Fredrikstad FK vs. Viking FK,2026-04-25T14:00:00Z,nor-ffk-vik-2026-04-25
+318779,Haras El Hodood SC vs. Wadi Degla SC,2026-04-25T14:00:00Z,egy1-heh-wds-2026-04-25
+370571,Huddersfield Town AFC vs. Mansfield Town FC,2026-04-25T14:00:00Z,el1-hud-man-2026-04-25
+319005,Jamshedpur FC vs. Chennaiyin FC,2026-04-25T14:00:00Z,isp-jfc-che-2026-04-25
+318427,Kayserispor vs. Ãaykur Rizespor,2026-04-25T14:00:00Z,tur-kay-riz-2026-04-25
+320152,Leicester City FC vs. Millwall FC,2026-04-25T14:00:00Z,elc-lei-mil-2026-04-25
+370569,Lincoln City FC vs. Wycombe Wanderers FC,2026-04-25T14:00:00Z,el1-lin-wyc-2026-04-25
+369841,Liverpool FC vs. Crystal Palace FC,2026-04-25T14:00:00Z,epl-liv-cry-2026-04-25
+370573,Luton Town FC vs. Barnsley FC,2026-04-25T14:00:00Z,el1-lut-bar-2026-04-25
+351065,Manchester City FC vs. Southampton FC,2026-04-25T14:00:00Z,efa-mnc-sot-2026-04-25
+318788,MFK KarvinÃ¡ vs. FK MladÃ¡ Boleslav,2026-04-25T14:00:00Z,cze1-mfk-fmb-2026-04-25
+320133,Middlesbrough FC vs. Watford FC,2026-04-25T14:00:00Z,elc-mid-wat-2026-04-25
+370716,Newport County AFC vs. Oldham Athletic AFC,2026-04-25T14:00:00Z,el2-new-old-2026-04-25
+328836,NK Slaven Belupo vs. HNK Vukovar 1991,2026-04-25T14:00:00Z,hr1-sla-vuk-2026-04-25
+320139,Norwich City FC vs. Swansea City AFC,2026-04-25T14:00:00Z,elc-nor-swa-2026-04-25
+320167,Oxford United FC vs. Sheffield Wednesday FC,2026-04-25T14:00:00Z,elc-oxf-swe-2026-04-25
+318616,PFK Krylia Sovetov Samara vs. FK Lokomotiv Moskva,2026-04-25T14:00:00Z,rus-kss-lok-2026-04-25
+370570,Plymouth Argyle FC vs. Port Vale FC,2026-04-25T14:00:00Z,el1-ply-pvl-2026-04-25
+320147,Queens Park Rangers FC vs. Derby County FC,2026-04-25T14:00:00Z,elc-qpr-der-2026-04-25
+370568,Rotherham United FC vs. Reading FC,2026-04-25T14:00:00Z,el1-rot-rea-2026-04-25
+320160,Sheffield United FC vs. Preston North End FC,2026-04-25T14:00:00Z,elc-she-pne-2026-04-25
+370723,Shrewsbury Town FC vs. Fleetwood Town FC,2026-04-25T14:00:00Z,el2-shr-fle-2026-04-25
+318794,SK Slavia Praha vs. SK Sigma Olomouc,2026-04-25T14:00:00Z,cze1-ssp-sso-2026-04-25
+370678,St Mirren FC vs. Livingston FC,2026-04-25T14:00:00Z,scop-stm-liv-2026-04-25
+320165,Stoke City FC vs. Portsmouth FC,2026-04-25T14:00:00Z,elc-sto-por-2026-04-25
+370717,Walsall FC vs. Harrogate Town AFC,2026-04-25T14:00:00Z,el2-wal-har-2026-04-25
+320144,West Bromwich Albion FC vs. Ipswich Town FC,2026-04-25T14:00:00Z,elc-wba-ips-2026-04-25
+369845,West Ham United FC vs. Everton FC,2026-04-25T14:00:00Z,epl-wes-eve-2026-04-25
+370575,Wigan Athletic FC vs. AFC Wimbledon,2026-04-25T14:00:00Z,el1-wig-wim-2026-04-25
+369849,Wolverhampton Wanderers FC vs. Tottenham Hotspur FC,2026-04-25T14:00:00Z,epl-wol-tot-2026-04-25
+370185,Getafe CF vs. FC Barcelona,2026-04-25T14:15:00Z,lal-get-bar-2026-04-25
+370184,Real Valladolid CF vs. Real Sociedad de FÃºtbol B,2026-04-25T14:15:00Z,es2-vld-rso-2026-04-25
+318041,Feyenoord Rotterdam vs. FC Groningen,2026-04-25T14:30:00Z,ere-fey-gro-2026-04-25
+381361,FK Rukh Lviv vs. FK Karpaty Lviv,2026-04-25T15:00:00Z,ukr1-ruk-kar-2026-04-25
+370525,Venezia FC vs. Empoli FC,2026-04-25T15:15:00Z,itsb-ven-emp-2026-04-25
+369189,Bologna FC 1909 vs. AS Roma,2026-04-25T16:00:00Z,sea-bol-rom-2026-04-25
+328684,FC KoÅ¡ice vs. MFK RuÅ¾omberok,2026-04-25T16:00:00Z,svk1-kos-ruz-2026-04-25
+328687,KFC KomÃ¡rno vs. MFK Skalica,2026-04-25T16:00:00Z,svk1-kom-ska-2026-04-25
+328678,MFK ZemplÃ­n Michalovce vs. FK Å½eleziarne PodbrezovÃ¡,2026-04-25T16:00:00Z,svk1-zem-pod-2026-04-25
+318927,Rosenborg BK vs. SK Brann,2026-04-25T16:00:00Z,nor-rbk-bra-2026-04-25
+351359,FC Bayern MÃ¼nchen vs. FC Barcelona,2026-04-25T16:15:00Z,uwcl-bm-fcb-2026-04-25
+369852,Arsenal FC vs. Newcastle United FC,2026-04-25T16:30:00Z,epl-ars-new-2026-04-25
+370186,Burgos CF vs. RC Deportivo La CoruÃ±a,2026-04-25T16:30:00Z,es2-bur-dep-2026-04-25
+370679,Celtic FC vs. Falkirk FC,2026-04-25T16:30:00Z,scop-cel-fal-2026-04-25
+318617,FK Rubin Kazan vs. PFK CSKA Moskva,2026-04-25T16:30:00Z,rus-rub-csk-2026-04-25
+369853,Hamburger SV vs. TSG 1899 Hoffenheim,2026-04-25T16:30:00Z,bun-hsv-hof-2026-04-25
+328837,NK Osijek vs. NK Lokomotiva Zagreb,2026-04-25T16:30:00Z,hr1-osi-lok-2026-04-25
+370187,Valencia CF vs. Girona FC,2026-04-25T16:30:00Z,lal-val-gir-2026-04-25
+321761,SC Heerenveen vs. Fortuna Sittard,2026-04-25T16:45:00Z,ere-her1-sit-2026-04-25
+369839,Angers SCO vs. Paris Saint-Germain FC,2026-04-25T17:00:00Z,fl1-ang-psg-2026-04-25
+318584,CA Platense vs. CA San Lorenzo de Almagro,2026-04-25T17:00:00Z,arg-pla-slo-2026-04-25
+322073,GÃ¶ztepe SK vs. Antalyaspor,2026-04-25T17:00:00Z,tur-goz-ant-2026-04-25
+329092,NJ/NY Gotham FC vs. Bay FC,2026-04-25T17:00:00Z,nwsl-got-bay-2026-04-25
+321965,Toronto FC vs. Atlanta United FC,2026-04-25T17:00:00Z,mls-tor-atl-2026-04-25
+328869,AEK vs. OFI,2026-04-25T17:30:00Z,grc-aek-ofi-2026-04-25
+370526,Cesena FC vs. UC Sampdoria,2026-04-25T17:30:00Z,itsb-ces-sam-2026-04-25
+389546,FC CFR 1907 Cluj vs. FC Universitatea Cluj,2026-04-25T17:30:00Z,rou1-fcc-fuc-2026-04-25
+370331,AS Saint-Ãtienne vs. ES Troyes AC,2026-04-25T18:00:00Z,fr2-ass-tro-2026-04-25
+336913,CD Moquegua vs. FC Cajamarca,2026-04-25T18:00:00Z,per1-cdm-fcc-2026-04-25
+321763,NAC Breda vs. AFC Ajax,2026-04-25T18:00:00Z,ere-nac-aja-2026-04-25
+321967,CF MontrÃ©al vs. New York City FC,2026-04-25T18:30:00Z,mls-mim-nyc-2026-04-25
+328690,FC DAC 1904 DunajskÃ¡ Streda vs. MÅ K Å½ilina,2026-04-25T18:30:00Z,svk1-dac-zil-2026-04-25
+369848,SV Darmstadt 98 vs. SV 07 Elversberg,2026-04-25T18:30:00Z,bl2-svd-elv-2026-04-25
+369191,Hellas Verona FC vs. US Lecce,2026-04-25T18:45:00Z,sea-ver-lec-2026-04-25
+318784,CA Bucaramanga vs. Jaguares de CÃ³rdoba FC,2026-04-25T19:00:00Z,col1-cab-jdc-2026-04-25
+318833,CA Nacional PotosÃ­ vs. GV CD San JosÃ©,2026-04-25T19:00:00Z,bol1-nap-gvs-2026-04-25
+365144,CD Ãublense vs. O'Higgins FC,2026-04-25T19:00:00Z,chi1-cdu-ohf-2026-04-25
+370189,Club AtlÃ©tico de Madrid vs. Athletic Club,2026-04-25T19:00:00Z,lal-mad-bil-2026-04-25
+321764,FC Twente '65 vs. NEC,2026-04-25T19:00:00Z,ere-twe-nec-2026-04-25
+370188,MÃ¡laga CF vs. CD CastellÃ³n,2026-04-25T19:00:00Z,es2-mal-cas-2026-04-25
+369843,Toulouse FC vs. AS Monaco FC,2026-04-25T19:05:00Z,fl1-tou-asm-2026-04-25
+322260,Estudiantes de La Plata vs. CA Talleres,2026-04-25T20:00:00Z,arg-est-tal-2026-04-25
+336915,CD Comerciantes Unidos vs. CS Cristal,2026-04-25T20:30:00Z,per1-ccu-csc-2026-04-25
+321972,Minnesota United FC vs. Los Angeles FC,2026-04-25T20:30:00Z,mls-min-laf-2026-04-25
+322657,Independiente MedellÃ­n vs. Fortaleza CEIF,2026-04-25T21:00:00Z,col1-inm-foc-2026-04-25
+322656,Club ABB vs. Club Blooming,2026-04-25T21:15:00Z,bol1-abb-blo-2026-04-25
+365143,Athletic Club vs. Clube NÃ¡utico Capibaribe,2026-04-25T21:30:00Z,bra2-ath-nau-2026-04-25
+326254,Botafogo FR vs. SC Internacional,2026-04-25T21:30:00Z,bra-bot-int-2026-04-25
+326252,Clube do Remo vs. Cruzeiro EC,2026-04-25T21:30:00Z,bra-cre-cru-2026-04-25
+326253,EC Bahia vs. Santos FC,2026-04-25T21:30:00Z,bra-bah-san-2026-04-25
+365147,CF Universidad de Chile vs. CD Universidad CatÃ³lica,2026-04-25T22:00:00Z,chi1-cud-cuc-2026-04-25
+322261,CA Sarmiento vs. CA Tigre,2026-04-25T22:15:00Z,arg-cas-tig-2026-04-25
+329093,Chicago Stars FC vs. Boston Legacy FC,2026-04-25T22:30:00Z,nwsl-chi-bos-2026-04-25
+322134,CF Pachuca vs. Pumas de la UNAM,2026-04-25T23:00:00Z,mex-pac-pum-2026-04-25
+322135,Tigres de la UANL vs. MazatlÃ¡n FC,2026-04-25T23:00:00Z,mex-tig-maz-2026-04-25
+322659,AD Cali vs. AmÃ©rica de Cali,2026-04-25T23:10:00Z,col1-adc-ad1-2026-04-25
+322658,Club GuabirÃ¡ vs. Club Always Ready,2026-04-25T23:30:00Z,bol1-gua-alw-2026-04-25
+321986,Columbus Crew vs. Philadelphia Union,2026-04-25T23:30:00Z,mls-clb-phi-2026-04-25
+321981,D.C. United SC vs. Orlando City SC,2026-04-25T23:30:00Z,mls-dcu-orl-2026-04-25
+321982,FC Cincinnati vs. New York Red Bulls,2026-04-25T23:30:00Z,mls-fcc-nyr-2026-04-25
+321979,Inter Miami CF vs. New England Revolution,2026-04-25T23:30:00Z,mls-mia-ner-2026-04-25
+365146,SC Recife vs. GrÃªmio Novorizontino,2026-04-25T23:30:00Z,bra2-rec-nov-2026-04-25
+365149,EC Juventude vs. Londrina EC,2026-04-26T00:00:00Z,bra2-juv-lon-2026-04-25
+329094,Houston Dash vs. North Carolina Courage,2026-04-26T00:00:00Z,nwsl-das-cou-2026-04-25
+326255,SÃ£o Paulo FC vs. Mirassol FC,2026-04-26T00:00:00Z,bra-sao-mir-2026-04-25
+336919,Sport Boys Association vs. ADC Juan Pablo II College,2026-04-26T00:00:00Z,per1-sba-ajp-2026-04-25
+321991,Austin FC vs. Houston Dynamo,2026-04-26T00:30:00Z,mls-aus-hou-2026-04-25
+322262,CA River Plate vs. CA Aldosivi,2026-04-26T00:30:00Z,arg-riv-ald-2026-04-25
+321992,Chicago Fire FC vs. Sporting Kansas City,2026-04-26T00:30:00Z,mls-chi-skc-2026-04-25
+321995,Nashville SC vs. Charlotte FC,2026-04-26T00:30:00Z,mls-nas-clt-2026-04-25
+321990,St. Louis City SC vs. San Jose Earthquakes,2026-04-26T00:30:00Z,mls-stl-sje-2026-04-25
+329095,Denver Summit FC vs. San Diego Wave FC,2026-04-26T00:45:00Z,nwsl-den-wav-2026-04-25
+322136,Deportivo Toluca FC vs. Club LeÃ³n FC,2026-04-26T01:00:00Z,mex-tol-leo-2026-04-25
+322137,CD Guadalajara vs. Club Tijuana,2026-04-26T01:07:00Z,mex-gua-tij-2026-04-25
+322662,Deportivo Pereira vs. AtlÃ©tico Nacional,2026-04-26T01:30:00Z,col1-dep-atn-2026-04-25
+321996,San Diego FC vs. Portland Timbers,2026-04-26T01:30:00Z,mls-sdg-por-2026-04-25
+322000,Seattle Sounders FC vs. FC Dallas,2026-04-26T02:30:00Z,mls-sea-dal-2026-04-25
+322001,Vancouver Whitecaps FC vs. Colorado Rapids SC,2026-04-26T02:30:00Z,mls-vwh-col-2026-04-25
+322138,CF AmÃ©rica vs. Atlas FC,2026-04-26T03:00:00Z,mex-ame-atl-2026-04-25
+322139,FC JuÃ¡rez vs. AtlÃ©tico San Luis,2026-04-26T03:00:00Z,mex-jua-asl-2026-04-25
+323071,Vanraure Hachinohe FC vs. Blaublitz Akita,2026-04-26T04:00:00Z,j2100-van-bla-2026-04-26
+322955,Jeonbuk Hyundai Motors FC vs. Pohang Steelers FC,2026-04-26T05:00:00Z,kor-jeo-poh-2026-04-26
+323072,KÅchi United SC vs. Tokushima Vortis,2026-04-26T05:00:00Z,j2100-koc-tok-2026-04-26
+323073,Matsumoto Yamaga FC vs. AC Nagano Parceiro,2026-04-26T05:00:00Z,j2100-mat-nag-2026-04-26
+322888,Sydney FC vs. Auckland FC,2026-04-26T05:00:00Z,aus-syd-auc-2026-04-26
+323074,Ehime FC vs. Kamatamare Sanuki,2026-04-26T06:00:00Z,j2100-ehi-kam-2026-04-26
+322889,Melbourne City FC vs. Adelaide United FC,2026-04-26T07:00:00Z,aus-mct-ade-2026-04-26
+322959,Gwangju FC vs. FC Anyang,2026-04-26T07:30:00Z,kor-gwa-any-2026-04-26
+322960,Ulsan HD FC vs. Daejeon Hana Citizen FC,2026-04-26T07:30:00Z,kor-uls-dae1-2026-04-26
+381363,FK Kryvbas Kryvyi Rih vs. FK Dynamo Kyiv,2026-04-26T10:00:00Z,ukr1-kry-dyn-2026-04-26
+321765,SBV Excelsior vs. FC Utrecht,2026-04-26T10:15:00Z,ere-exc-utr-2026-04-26
+372892,ACF Fiorentina vs. US Sassuolo Calcio,2026-04-26T10:30:00Z,sea-fio-sas-2026-04-26
+322921,Chongqing Tonglianglong FC vs. Qingdao Xihaian FC,2026-04-26T11:00:00Z,chi-ton-qin-2026-04-26
+389547,FC UTA Arad vs. FCV Farul ConstanÅ£a,2026-04-26T11:00:00Z,rou1-fua-ffc-2026-04-26
+322318,FK Pari Nizhnii Novgorod vs. FK Spartak Moskva,2026-04-26T11:00:00Z,rus-nov-spa-2026-04-26
+322922,Shenzhen Xinpengcheng FC vs. Liaoning Tieren FC,2026-04-26T11:00:00Z,chi-xin-tie-2026-04-26
+373555,1. FC NÃ¼rnberg vs. 1. FC Magdeburg,2026-04-26T11:30:00Z,bl2-fcn-fcm-2026-04-26
+322074,GenÃ§lerbirliÄi SK vs. Kocaelispor,2026-04-26T11:30:00Z,tur-gen-koc-2026-04-26
+322850,SC Delhi vs. Mohammedan SC,2026-04-26T11:30:00Z,isp-hfc-moh-2026-04-26
+373556,SC Paderborn 07 vs. FC Schalke 04,2026-04-26T11:30:00Z,bl2-scp-s04-2026-04-26
+373550,VfL Bochum vs. SpVgg Greuther FÃ¼rth,2026-04-26T11:30:00Z,bl2-boc-fur-2026-04-26
+322923,Dalian Yingbo FC vs. Yunnan Yukun FC,2026-04-26T11:35:00Z,chi-ygb-yun-2026-04-26
+322924,Qingdao Hainiu FC vs. Shandong Taishan FC,2026-04-26T11:35:00Z,chi-hai-sha-2026-04-26
+373903,CÃ³rdoba CF vs. Real Sporting de GijÃ³n,2026-04-26T12:00:00Z,es2-cor-spo-2026-04-26
+322796,FC Fredericia vs. Odense BK,2026-04-26T12:00:00Z,den-fcf-ode-2026-04-26
+322925,Henan FC vs. Shanghai Shenhua FC,2026-04-26T12:00:00Z,chi-hen-sgr-2026-04-26
+373904,Rayo Vallecano de Madrid vs. Real Sociedad de FÃºtbol,2026-04-26T12:00:00Z,lal-ray-rso-2026-04-26
+322797,Silkeborg IF vs. Randers FC,2026-04-26T12:00:00Z,den-sif-ran-2026-04-26
+381364,FK LNZ Cherkasy vs. FK Metalist 1925 Kharkiv,2026-04-26T12:30:00Z,ukr1-che-met-2026-04-26
+321766,Heracles Almelo vs. FC Volendam,2026-04-26T12:30:00Z,ere-her-vol-2026-04-26
+322760,Molde FK vs. VÃ¥lerenga Fotball,2026-04-26T12:30:00Z,nor-mol-vif-2026-04-26
+374318,Dundee United FC vs. Dundee FC,2026-04-26T13:00:00Z,scop-dun-dfc-2026-04-26
+373549,FC Lorient vs. RC Strasbourg Alsace,2026-04-26T13:00:00Z,fl1-lor-str-2026-04-26
+372894,Genoa CFC vs. Como 1907,2026-04-26T13:00:00Z,sea-gen-com-2026-04-26
+373551,VfB Stuttgart vs. SV Werder Bremen,2026-04-26T13:30:00Z,bun-stu-wer-2026-04-26
+322319,FK Dinamo Moskva vs. FK Sochi,2026-04-26T14:00:00Z,rus-din-soc-2026-04-26
+322320,FK Krasnodar vs. FK Dinamo Makhachkala,2026-04-26T14:00:00Z,rus-kra-mak-2026-04-26
+328838,HNK Rijeka vs. HNK Hajduk Split,2026-04-26T14:00:00Z,hr1-rij-haj-2026-04-26
+322851,Mohun Bagan Super Giant vs. Inter Kashi FC,2026-04-26T14:00:00Z,isp-mob-kas-2026-04-26
+374320,Rangers FC vs. Motherwell FC,2026-04-26T14:00:00Z,scop-ran-mot-2026-04-26
+322799,SÃ¸nderjyske Fodbold vs. BrÃ¸ndby IF,2026-04-26T14:00:00Z,den-sjs-bro-2026-04-26
+373907,CD MirandÃ©s vs. Cultural y Deportiva Leonesa,2026-04-26T14:15:00Z,es2-mir-leo-2026-04-26
+373906,Granada CF vs. UD AlmerÃ­a,2026-04-26T14:15:00Z,es2-gra-alm-2026-04-26
+373905,Real Oviedo vs. Elche CF,2026-04-26T14:15:00Z,lal-ovi-elc-2026-04-26
+361821,Arsenal WFC vs. OL Lyonnes,2026-04-26T14:30:00Z,uwcl-ars-oly-2026-04-26
+396383,Estoril Praia vs. FC FamalicÃ£o,2026-04-26T14:30:00Z,por-est-fam-2026-04-26
+322761,Aalesunds FK vs. Kristiansund BK,2026-04-26T15:00:00Z,nor-aal-kbk-2026-04-26
+328698,FC Tatran PreÅ¡ov vs. AS TrenÄÃ­n,2026-04-26T15:00:00Z,svk1-ftp-tre-2026-04-26
+381366,FK Kudrivka vs. FK Shakhtar Donetsk,2026-04-26T15:00:00Z,ukr1-kud-shd-2026-04-26
+381365,FK Polissia vs. FK Obolon Kyiv,2026-04-26T15:00:00Z,ukr1-pol-obo-2026-04-26
+322764,Hamarkameratene vs. IK Start,2026-04-26T15:00:00Z,nor-ham-ik-2026-04-26
+322762,KFUM-Kameratene Oslo vs. Sarpsborg 08 FF,2026-04-26T15:00:00Z,nor-kfu-sar-2026-04-26
+322763,TromsÃ¸ IL vs. Sandefjord Fotball,2026-04-26T15:00:00Z,nor-tro-san-2026-04-26
+373553,Le Havre AC vs. FC Metz,2026-04-26T15:15:00Z,fl1-hac-met-2026-04-26
+373557,Paris FC vs. Lille OSC,2026-04-26T15:15:00Z,fl1-pfc-lil-2026-04-26
+373559,Stade Rennais FC 1901 vs. FC Nantes,2026-04-26T15:15:00Z,fl1-ren-nan-2026-04-26
+373554,BV Borussia 09 Dortmund vs. SC Freiburg,2026-04-26T15:30:00Z,bun-dor-fre-2026-04-26
+374321,Hibernian FC vs. Heart of Midlothian FC,2026-04-26T15:30:00Z,scop-hib-hmi-2026-04-26
+336923,CU TÃ©cnica de Cajamarca vs. CS Cienciano,2026-04-26T16:00:00Z,per1-ctd-cs1-2026-04-26
+372895,Torino FC vs. FC Internazionale Milano,2026-04-26T16:00:00Z,sea-tor-int-2026-04-26
+322802,Viborg FF vs. FC NordsjÃ¦lland,2026-04-26T16:00:00Z,den-vib-nor-2026-04-26
+373908,CA Osasuna vs. Sevilla FC,2026-04-26T16:30:00Z,lal-osa-sev-2026-04-26
+365150,CD La Serena vs. CD Huachipato,2026-04-26T16:30:00Z,chi1-cls-cdh-2026-04-26
+373912,CD LeganÃ©s vs. FC Andorra,2026-04-26T16:30:00Z,es2-leg-and-2026-04-26
+322321,FK Zenit vs. RFK Akhmat Groznyi,2026-04-26T16:30:00Z,rus-zen-ter-2026-04-26
+373911,SD Huesca vs. Real Zaragoza,2026-04-26T16:30:00Z,es2-hue-zar-2026-04-26
+328839,GNK Dinamo Zagreb vs. NK VaraÅ¾din,2026-04-26T16:45:00Z,hr1-din-var-2026-04-26
+396385,CD Santa Clara vs. SC Braga,2026-04-26T17:00:00Z,por-cds-scb-2026-04-26
+396387,CF Estrela da Amadora vs. FC Porto,2026-04-26T17:00:00Z,por-ama-por-2026-04-26
+328702,FC Spartak Trnava vs. Å K Slovan Bratislava,2026-04-26T17:00:00Z,svk1-trn-sba-2026-04-26
+325838,Galatasaray SK vs. FenerbahÃ§e SK,2026-04-26T17:00:00Z,tur-gal-fen-2026-04-26
+322765,LillestrÃ¸m SK vs. FK BodÃ¸/Glimt,2026-04-26T17:15:00Z,nor-lil-bog-2026-04-26
+322803,Aarhus GF vs. FC Midtjylland,2026-04-26T18:00:00Z,den-agf-mid-2026-04-26
+326007,CS Independiente Rivadavia vs. CA Gimnasia y Esgrima de Mendoza,2026-04-26T18:00:00Z,arg-riv1-gye-2026-04-26
+389549,Dinamo 1948 vs. FC Rapid 1923,2026-04-26T18:00:00Z,rou1-din-fcr-2026-04-26
+336925,Cusco FC vs. CS Huancayo,2026-04-26T18:15:00Z,per1-cuf-csh-2026-04-26
+372897,AC Milan vs. Juventus FC,2026-04-26T18:45:00Z,sea-mil-juv-2026-04-26
+373560,Olympique de Marseille vs. OGC Nice,2026-04-26T18:45:00Z,fl1-olm-ogc-2026-04-26
+373913,AD Ceuta FC vs. Real Racing Club,2026-04-26T19:00:00Z,es2-ceu-rrc-2026-04-26
+365152,CD Universidad de ConcepciÃ³n vs. CSD Colo-Colo,2026-04-26T19:00:00Z,chi1-cu1-csc-2026-04-26
+322661,CDT Real Oruro vs. Club The Strongest,2026-04-26T19:00:00Z,bol1-oru-str-2026-04-26
+326257,GrÃªmio FBPA vs. Coritiba FBC,2026-04-26T19:00:00Z,bra-gre-cor-2026-04-26
+365151,SÃ£o Bernardo FC vs. GoiÃ¡s EC,2026-04-26T19:00:00Z,bra2-ber-goi-2026-04-26
+326256,SC Corinthians Paulista vs. CR Vasco da Gama,2026-04-26T19:00:00Z,bra-cor1-vas-2026-04-26
+373910,Villarreal CF vs. RC Celta de Vigo,2026-04-26T19:00:00Z,lal-vil-cel-2026-04-26
+396389,AVS Futebol vs. Sporting CP,2026-04-26T19:30:00Z,por-avs-spo-2026-04-26
+326008,CA Belgrano vs. Gimnasia y Esgrima de La Plata,2026-04-26T20:30:00Z,arg-bel-gim-2026-04-26
+336927,CA Grau vs. Club Alianza Lima,2026-04-26T20:30:00Z,per1-cag-cal-2026-04-26
+326009,CA Newell's Old Boys vs. Instituto AC CÃ³rdoba,2026-04-26T20:30:00Z,arg-new-iac-2026-04-26
+326215,Ãguilas Doradas Rionegro vs. Once Caldas,2026-04-26T21:00:00Z,col1-gdr-onc-2026-04-26
+327943,AD Municipal Liberia vs. LD Alajuelense,2026-04-26T21:00:00Z,fpd-lib-ala-2026-04-26
+327945,AD San Carlos vs. AD Municipal PÃ©rez ZeledÃ³n,2026-04-26T21:00:00Z,fpd-sca-per-2026-04-26
+328401,Aurora FC vs. CSD MictlÃ¡n,2026-04-26T21:00:00Z,gtm-aur-mic-2026-04-26
+328397,CD Achuapa vs. Antigua GFC,2026-04-26T21:00:00Z,gtm-cda-ant-2026-04-26
+328399,CD Guastatoya vs. CD Marquense,2026-04-26T21:00:00Z,gtm-cdg-mrq-2026-04-26
+328398,CD Malacateco vs. Comunicaciones FC,2026-04-26T21:00:00Z,gtm-adm-com-2026-04-26
+365155,CearÃ¡ SC vs. Vila Nova FC,2026-04-26T21:00:00Z,bra2-csc-vln-2026-04-26
+327942,CS Herediano vs. Sporting FC,2026-04-26T21:00:00Z,fpd-her-spo-2026-04-26
+328400,CSD Municipal vs. CSD Mixco,2026-04-26T21:00:00Z,gtm-mun-mix-2026-04-26
+328396,CSD XelajÃº MC vs. CSD CobÃ¡n Imperial,2026-04-26T21:00:00Z,gtm-xel-cob-2026-04-26
+327946,Guadalupe FC vs. CS CartaginÃ©s,2026-04-26T21:00:00Z,fpd-gua-car-2026-04-26
+365153,OperÃ¡rio FerroviÃ¡rio EC vs. Fortaleza EC,2026-04-26T21:00:00Z,bra2-ope-fec-2026-04-26
+327944,Puntarenas FC vs. Deportivo Saprissa,2026-04-26T21:00:00Z,fpd-pun-sap-2026-04-26
+326213,Club BolÃ­var vs. CD Real Tomayapo,2026-04-26T21:15:00Z,bol1-bol-tom-2026-04-26
+326258,CA Paranaense vs. EC VitÃ³ria,2026-04-26T21:30:00Z,bra-cap-vit-2026-04-26
+365154,Everton de ViÃ±a del Mar vs. CD Cobresal,2026-04-26T21:30:00Z,chi1-edv-cdc-2026-04-26
+326259,Red Bull Bragantino vs. SE Palmeiras,2026-04-26T21:30:00Z,bra-bra-pal-2026-04-26
+329096,Angel City FC vs. Portland Thorns FC,2026-04-26T22:00:00Z,nwsl-ang-tho-2026-04-26
+326011,CA TucumÃ¡n vs. CA Banfield,2026-04-26T23:00:00Z,arg-cat-ban-2026-04-26
+325907,Club Santos Laguna vs. CF Monterrey,2026-04-26T23:00:00Z,mex-san-mon1-2026-04-26
+336930,Club Universitario de Deportes vs. Club Alianza AtlÃ©tico,2026-04-26T23:00:00Z,per1-cud-caa-2026-04-26
+325752,Los Angeles Galaxy vs. Real Salt Lake,2026-04-26T23:00:00Z,mls-lag-rsl-2026-04-26
+326219,Llaneros FC vs. Alianza FC,2026-04-26T23:10:00Z,col1-llf-alf-2026-04-26
+365157,AC Goianiense vs. AvaÃ­ FC,2026-04-26T23:30:00Z,bra2-acg-ava-2026-04-26
+326260,CA Mineiro vs. CR Flamengo,2026-04-26T23:30:00Z,bra-cam-fla-2026-04-26
+326217,CD Oriente Petrolero vs. Bamin Real PotosÃ­,2026-04-26T23:30:00Z,bol1-ori-pot-2026-04-26
+365158,CriciÃºma EC vs. CR Brasil,2026-04-26T23:30:00Z,bra2-cri-crb-2026-04-26
+326261,Fluminense FC vs. AssociaÃ§Ã£o Chapecoense de Futebol,2026-04-26T23:30:00Z,bra-flu-cha-2026-04-26
+329097,Seattle Reign FC vs. Utah Royals FC,2026-04-27T00:00:00Z,nwsl-rei-roy-2026-04-26
+325908,CF Cruz Azul vs. Club Necaxa,2026-04-27T01:00:00Z,mex-caz-nec-2026-04-26
+326222,CD La Equidad Seguros vs. BoyacÃ¡ ChicÃ³ FC,2026-04-27T01:20:00Z,col1-cle-bcf-2026-04-26
+381368,FK Epitsentr Dunaivtsi vs. FK Oleksandriya,2026-04-27T10:00:00Z,ukr1-epi-ole-2026-04-27
+381369,FK Zorya Luhansk vs. RNK Veres Rivne,2026-04-27T12:30:00Z,ukr1-zor-ver-2026-04-27
+325839,Alanyaspor vs. Samsunspor,2026-04-27T14:00:00Z,tur-ala-sam-2026-04-27
+326218,Smouha SC vs. El Masry SC,2026-04-27T14:00:00Z,egy1-sms-ems-2026-04-27
+326214,Zamalek SC vs. ENPPI,2026-04-27T14:00:00Z,egy1-zas-enp-2026-04-27
+389553,FC Metaloglobus BucureÈti vs. AFC Unirea Slobozia,2026-04-27T14:30:00Z,rou1-fmb-aus-2026-04-27
+328840,HNK Gorica vs. NK Istra 1961,2026-04-27T16:00:00Z,hr1-gor-ist-2026-04-27
+376452,Cagliari Calcio vs. Atalanta BC,2026-04-27T16:30:00Z,sea-cag-ata-2026-04-27
+329482,BeÅiktaÅ JK vs. Fatih KaragÃ¼mrÃ¼k SK,2026-04-27T17:00:00Z,tur-bes-kar-2026-04-27
+326390,FC KÃ¸benhavn vs. Vejle BK,2026-04-27T17:00:00Z,den-kob-vbk-2026-04-27
+326046,FK Baltika Kaliningrad vs. FK Akron Tolyatti,2026-04-27T17:00:00Z,rus-bal-akr-2026-04-27
+329481,Konyaspor vs. Trabzonspor,2026-04-27T17:00:00Z,tur-kon-tra-2026-04-27
+326221,Pyramids FC vs. El Ahly SC,2026-04-27T17:00:00Z,egy1-pyf-eas-2026-04-27
+389555,FC ArgeÈ PiteÈti vs. Universitatea Craiova CS,2026-04-27T17:30:00Z,rou1-fap-ucc-2026-04-27
+377413,CÃ¡diz CF vs. UD Las Palmas,2026-04-27T18:30:00Z,es2-cad-lpm-2026-04-27
+376453,SS Lazio vs. Udinese Calcio,2026-04-27T18:45:00Z,sea-laz-udi-2026-04-27
+377546,US Boulogne CÃ´te d'Opale vs. USL Dunkerque,2026-04-27T18:45:00Z,fr2-usb-usd-2026-04-27
+377130,Manchester United FC vs. Brentford FC,2026-04-27T19:00:00Z,epl-mun-bre-2026-04-27
+377414,RCD Espanyol de Barcelona vs. Levante UD,2026-04-27T19:00:00Z,lal-esp-lev-2026-04-27
+336933,AD Tarma vs. CD Los Chankas,2026-04-27T20:00:00Z,per1-adt-clc-2026-04-27
+329644,CA VÃ©lez Sarsfield vs. CA UniÃ³n,2026-04-27T21:45:00Z,arg-vel-uni-2026-04-27
+329645,CA HuracÃ¡n vs. AA Argentinos Juniors,2026-04-28T00:00:00Z,arg-cah-aaj-2026-04-27
+336934,CD Garcilaso vs. FBC Melgar,2026-04-28T00:00:00Z,per1-cdg-fbm-2026-04-27
+329846,Club Aurora vs. CD San Antonio Bulo Bulo,2026-04-28T00:00:00Z,bol1-aur-ant-2026-04-27
+330022,East Bengal FC vs. Odisha FC,2026-04-28T14:00:00Z,isp-ebe-ddy-2026-04-28
+329845,Petrojet SC vs. Ismaily SC,2026-04-28T14:00:00Z,egy1-pes-iss-2026-04-28
+329847,ZED FC vs. Pharco FC,2026-04-28T14:00:00Z,egy1-zef-phf-2026-04-28
+329851,El Mokawloon El Arab SC vs. Ghazl El Mahalla SC,2026-04-28T17:00:00Z,egy1-eme-gem-2026-04-28
+329849,Kahrabaa Ismailia FC vs. National Bank of Egypt Club,2026-04-28T17:00:00Z,egy1-kif-nbo-2026-04-28
+381269,Stockport County FC vs. Port Vale FC,2026-04-28T18:45:00Z,el1-sto-pvl-2026-04-28
+386029,Paris Saint-Germain FC vs. FC Bayern MÃ¼nchen,2026-04-28T19:00:00Z,ucl-psg1-bay1-2026-04-28
+332646,CA LanÃºs vs. LDU de Quito,2026-04-28T22:00:00Z,lib-lan-lqu-2026-04-28
+333072,CA San Lorenzo de Almagro vs. Santos FC,2026-04-28T22:00:00Z,sud-slo-san-2026-04-28
+332647,Club Libertad vs. Independiente del Valle,2026-04-28T22:00:00Z,lib-lib-ind1-2026-04-28
+333071,Recoleta FC vs. CD Cuenca,2026-04-28T22:00:00Z,sud-rec1-cue-2026-04-28
+333073,CA Barracas Central vs. Audax CS Italiano,2026-04-29T00:00:00Z,sud-cbc-aud-2026-04-28
+332648,Universidad Central de Venezuela FC vs. CA Rosario Central,2026-04-29T00:00:00Z,lib-ucv-ros-2026-04-28
+333074,Botafogo FR vs. Club Independiente Petrolero,2026-04-29T00:30:00Z,sud-bot-idp-2026-04-28
+332649,Cruzeiro EC vs. CA Boca Juniors,2026-04-29T00:30:00Z,lib-cru-boc-2026-04-28
+333075,Millonarios FC vs. SÃ£o Paulo FC,2026-04-29T00:30:00Z,sud-mil-sao-2026-04-28
+332651,CD Tolima vs. CD Coquimbo Unido,2026-04-29T02:00:00Z,lib-tol-coq-2026-04-28
+332650,CS Cristal vs. CDP Junior FC,2026-04-29T02:00:00Z,lib-cri-jun-2026-04-28
+333076,O'Higgins FC vs. CA Boston River,2026-04-29T02:00:00Z,sud-ohi-bor-2026-04-28
+333689,Iwaki FC vs. FC Gifu,2026-04-29T04:00:00Z,j2100-iwa-gif-2026-04-29
+333378,Shimizu S-Pulse vs. V-Varen Nagasaki,2026-04-29T04:00:00Z,j1100-ssp-vva-2026-04-29
+333377,TÅkyÅ Verdy vs. Kashima Antlers,2026-04-29T04:00:00Z,j1100-ver-kas-2026-04-29
+333692,Åita Trinita vs. Roasso Kumamoto,2026-04-29T05:00:00Z,j2100-oit-roa-2026-04-29
+333381,Avispa Fukuoka vs. Sanfrecce Hiroshima,2026-04-29T05:00:00Z,j1100-avi-san-2026-04-29
+333699,Blaublitz Akita vs. Montedio Yamagata,2026-04-29T05:00:00Z,j2100-bla-mon-2026-04-29
+333700,HokkaidÅ Consadole Sapporo vs. Fujieda MYFC,2026-04-29T05:00:00Z,j2100-con-fuj-2026-04-29
+333382,JEF United Ichihara Chiba vs. Yokohama FÂ·Marinos,2026-04-29T05:00:00Z,j1100-jef-yom-2026-04-29
+333697,Kagoshima United FC vs. Sagan Tosu,2026-04-29T05:00:00Z,j2100-kag-st-2026-04-29
+333703,Kamatamare Sanuki vs. Zweigen Kanazawa,2026-04-29T05:00:00Z,j2100-kam-zwe-2026-04-29
+333698,Kataller Toyama vs. Albirex Niigata,2026-04-29T05:00:00Z,j2100-kat-alb-2026-04-29
+376255,Nara Club vs. KÅchi United SC,2026-04-29T05:00:00Z,j2100-nar-koc-2026-04-29
+333694,RB Åmiya Ardija vs. Ventforet KÅfu,2026-04-29T05:00:00Z,j2100-omi-ven-2026-04-29
+333705,Reilac Shiga vs. Gainare Tottori,2026-04-29T05:00:00Z,j2100-rei-gai-2026-04-29
+333704,Renofa Yamaguchi FC vs. FC RyÅ«kyÅ«,2026-04-29T05:00:00Z,j2100-ren-ryu-2026-04-29
+333695,SC Sagamihara vs. Tochigi City FC,2026-04-29T05:00:00Z,j2100-sag-tct-2026-04-29
+333702,Tegevajaro Miyazaki vs. Giravanz KitakyÅ«shÅ«,2026-04-29T05:00:00Z,j2100-teg-gir-2026-04-29
+333693,Thespa Gunma vs. Vegalta Sendai,2026-04-29T05:00:00Z,j2100-the-veg-2026-04-29
+333696,Tochigi SC vs. ShÅnan BellmÄre,2026-04-29T05:00:00Z,j2100-tsc-sho-2026-04-29
+333380,Vissel KÅbe vs. Cerezo Åsaka,2026-04-29T05:00:00Z,j1100-vis-cer-2026-04-29
+333690,Yokohama FC vs. Vanraure Hachinohe FC,2026-04-29T05:00:00Z,j2100-yok-van-2026-04-29
+333384,KyÅto Sanga FC vs. Gamba Åsaka,2026-04-29T06:00:00Z,j1100-kyo-gam-2026-04-29
+333383,Nagoya Grampus vs. Fagiano Okayama,2026-04-29T06:00:00Z,j1100-ngr-fag-2026-04-29
+333385,Urawa Red Diamonds vs. Kawasaki Frontale,2026-04-29T06:00:00Z,j1100-ura-kaw-2026-04-29
+333387,FC Mito Holly Hock vs. FC Machida Zelvia,2026-04-29T07:00:00Z,j1100-hol-zel-2026-04-29
+333386,Kashiwa Reysol vs. FC TÅkyÅ,2026-04-29T07:00:00Z,j1100-rey-fct-2026-04-29
+333706,Ehime FC vs. FC Imabari,2026-04-29T08:00:00Z,j2100-ehi-imb-2026-04-29
+333708,AC Nagano Parceiro vs. Fukushima United FC,2026-04-29T09:00:00Z,j2100-nag-fuk-2026-04-29
+333707,Matsumoto Yamaga FC vs. JÃºbilo Iwata,2026-04-29T09:00:00Z,j2100-mat-jub-2026-04-29
+333311,El Gouna SC vs. Haras El Hodood SC,2026-04-29T14:00:00Z,egy1-egs-heh-2026-04-29
+333312,Modern SC vs. Tala'ea El Gaish SC,2026-04-29T17:00:00Z,egy1-mos-teg-2026-04-29
+333419,TromsÃ¸ IL vs. SK Brann,2026-04-29T17:00:00Z,nor-tro-bra-2026-04-29
+333314,Wadi Degla SC vs. El Ittihad SC El Iskandary,2026-04-29T17:00:00Z,egy1-wds-eis-2026-04-29
+386031,Club AtlÃ©tico de Madrid vs. Arsenal FC,2026-04-29T19:00:00Z,ucl-atm1-ars-2026-04-29
+336674,CA Juventud vs. Academia Puerto Cabello,2026-04-29T22:00:00Z,sud-juv-apc-2026-04-29
+336194,CA Platense vs. Independiente Santa Fe,2026-04-29T22:00:00Z,lib-cp-san1-2026-04-29
+336673,Caracas FC vs. Racing Club,2026-04-29T22:00:00Z,sud-car1-rac-2026-04-29
+336675,CD Riestra vs. Montevideo City Torque,2026-04-29T22:00:00Z,sud-rie-tor-2026-04-29
+336193,Mirassol FC vs. Club Always Ready,2026-04-29T22:00:00Z,lib-mir-alw-2026-04-29
+336017,Boston Legacy FC vs. North Carolina Courage,2026-04-29T23:00:00Z,nwsl-bos-cou-2026-04-29
+336016,Washington Spirit vs. Racing Louisville FC,2026-04-29T23:00:00Z,nwsl-spi-rac-2026-04-29
+336195,Barcelona SC vs. CD Universidad CatÃ³lica,2026-04-30T00:00:00Z,lib-bar-cat1-2026-04-29

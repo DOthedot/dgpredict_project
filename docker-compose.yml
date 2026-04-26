@@ -1,0 +1,51 @@
+services:
+
+  # ── Postgres 16 ───────────────────────────────────────────────────────────
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER:     ${POSTGRES_USER:-polymarket}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-polymarket}
+      POSTGRES_DB:       ${POSTGRES_DB:-polymarket}
+    ports:
+      # Expose 5432 so you can connect with psql / DBeaver from the host
+      - "5432:5432"
+    volumes:
+      # Named volume persists data across container restarts.
+      # Use `make reset` (docker compose down -v) to wipe it for a clean slate.
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      # pg_isready exits 0 only when Postgres is ready to accept connections.
+      # The ETL service waits for this before starting (condition: service_healthy).
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-polymarket} -d ${POSTGRES_DB:-polymarket}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+      start_period: 10s
+
+  # ── ETL Pipeline ──────────────────────────────────────────────────────────
+  etl:
+    build: .
+    env_file:
+      # Load credentials from .env (copy from .env.example to get started)
+      - .env
+    environment:
+      # Override host to the Docker service name — 'localhost' won't work
+      # inside Docker because the ETL container is on the compose network,
+      # not the host network. 'postgres' resolves to the postgres service IP.
+      POSTGRES_HOST: postgres
+    volumes:
+      # Mount the data directory read-only so the CSV of event IDs is
+      # accessible inside the container at /data/ without baking it into the image.
+      - ./data:/data:ro
+    depends_on:
+      postgres:
+        # Wait for Postgres to pass its healthcheck before starting ETL.
+        # Without this, ETL would start and immediately fail with "connection refused".
+        condition: service_healthy
+    # no restart — pipeline runs once and exits cleanly.
+    # Use `make run` to trigger subsequent runs.
+    restart: "no"
+
+volumes:
+  postgres_data:

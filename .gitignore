@@ -1,0 +1,22 @@
+# Secrets — never commit
+.env
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.uv/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
